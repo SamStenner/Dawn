@@ -53,3 +53,16 @@ tasks.wrapper {
 task clean(type: Delete) {
   delete rootProject.buildDir
 }
+
+// Setting JVM memory to 4096
+allprojects {
+  tasks.withType(JavaCompile) {
+    options.forkOptions.jvmArgs += ['-Xmx4096m']
+  }
+  tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).all {
+    kotlinOptions {
+      jvmTarget = "1.8"
+      freeCompilerArgs += ['-Xmx4096m']
+    }
+  }
+}
