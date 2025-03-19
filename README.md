@@ -15,19 +15,26 @@
     </a>
 </p>
 
-### Here lives the greatest open-source Reddit app
+### Here lies the greatest open-source Reddit app (not because it died, but because it's too comfy to get up)
 
-This is a fork of a Reddit application named **Dank** created by [@saket](https://github.com/saket). You can find the original repository [here](https://github.com/saket/Dank) and read about why the original code has been archived and open sourced in [this blog post](https://saket.me/sunsetting-dank/).
+This is a fork of a Reddit application named **Dank** created by [@saket](https://github.com/saket). You can find the original repository [here](https://github.com/saket/Dank) and read about why the original code has been archived and open sourced in [this blog post](https://saket.me/sunsetting-dank/). Unlike your ex, this app actually improves with every update.
 
-### Download the APP
+### Download the APP (because scrolling Reddit on your desktop at work is too obvious)
 
-You can download the latest release of **Dawn** from [Google Play Store](https://play.google.com/store/apps/details?id=me.thanel.dank) or directly from [GitHub releases page](https://github.com/Tunous/Dawn/releases).
+You can download the latest release of **Dawn** from [Google Play Store](https://play.google.com/store/apps/details?id=me.thanel.dank) or directly from [GitHub releases page](https://github.com/Tunous/Dawn/releases). Choose wisely - one path leads to instant gratification, the other makes you feel like a proper tech enthusiast.
 
-### Read about what's new
+### What's New (Besides Everything That Was Old)
 
-All the changes made to the application are being documented in a changelog file. You can find it [here](CHANGELOG.md).
+All the changes made to the application are meticulously documented in our changelog file, which is basically a diary of our app's journey to greatness. You can find this thrilling page-turner [here](CHANGELOG.md). Warning: may contain actual improvements.
 
-### License
+### Features That Will Make Other Reddit Apps Jealous
+
+* Buttery smooth scrolling (unlike your first car)
+* Dark mode that's actually dark (looking at you, "dark mode" apps with #333333 backgrounds)
+* A UI so intuitive your grandparents could use it (results may vary based on grandparent)
+* Opens Reddit links faster than you can say "just one more post before bed"
+
+### License (The Boring But Necessary Legal Bit)
 ```
 Copyright 2018 Saket Narayan.
 
@@ -42,4 +49,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-```
